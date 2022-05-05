@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Qandiil</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 👨‍💻 All of my projects are available at [Comming Soon](Comming Soon)
+- 👨‍💻 All of my projects are available at [Comming Soon]
 
 - 📫 How to reach me **ahmadqandil334@gmail.com**
 
